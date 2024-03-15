@@ -7,7 +7,7 @@ author_profile: true
 
 ## Private Posterior Implementation in Collective Decision Problems
 
-[Link to PDF](files/private_posterior_implementation___nov_21__2023 (8).pdf)
+[Link to PDF](private_posterior_implementation___nov_21__2023 (8).pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -17,7 +17,7 @@ Posterior implementation is a sparsely studied solution concept for mechanism de
 
 ## Strategy-Proofness in Elections with Multidimensional Signals 
 
-[PDF](files/sp_mde___feb_4__2024 (2).pdf)
+[PDF](sp_mde___feb_4__2024 (2).pdf)
 
 <details>
 <summary>Abstract</summary>
