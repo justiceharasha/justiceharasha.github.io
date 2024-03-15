@@ -17,7 +17,7 @@ Posterior implementation is a sparsely studied solution concept for mechanism de
 
 ## Strategy-Proofness in Elections with Multidimensional Signals 
 
-[PDF](link_to_pdf_file.pdf)
+[PDF](files/sp_mde___feb_4__2024 (2).pdf)
 
 <details>
 <summary>Abstract</summary>
