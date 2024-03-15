@@ -1,3 +1,3 @@
 # Curriculum Vitae
 
-Click [here]() for my updated CV.
+Click [here](justice_harasha_cv_updated_aug_28__2023 (6).pdf) for my updated CV.
