@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/1692767799946.jpg"
+  avatar           : "1692767799946.png"
   name             : "Justice C. Harasha"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate in Mathematics at Yale University."
