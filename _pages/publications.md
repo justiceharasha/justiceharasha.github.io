@@ -7,7 +7,7 @@ author_profile: true
 
 ## Private Posterior Implementation in Collective Decision Problems
 
-[PDF](link_to_pdf_file.pdf)
+[Link to PDF](files/private_posterior_implementation___nov_21__2023 (8).pdf)
 
 <details>
 <summary>Abstract</summary>
