@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Justice C. Harasha"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Undergraduate in Mathematics at Yale University."
   location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   
   # Social media
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : "justiceh8900"  # Replace this with your X / Twitter handle
   
 
 # Site Settings
