@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an undergraduate at [Yale University](https://www.yale.edu/), pursuing a B.A. in Mathematics, along with a second degree in Economics. I am broadly interested in economic theory, particularly in the application of mechanism design to settings without monetary transfers and game theoretic approaches to problems in political economy. I am currently advised by [Dirk Bergemann](https://economics.yale.edu/people/dirk-bergemann) and [Adam Meirowitz](https://isps.yale.edu/team/adam-meirowitz).
+Hello! I am an incoming PhD student at [Princeton University](https://www.princeton.edu/), affiliated with the [Research Program in Political Economy](https://rppe.princeton.edu/). Before this, I was a research fellow at the [Yale Institute for Social and Policy Studies](https://isps.yale.edu/), collaborating with [Adam Meirowitz](https://isps.yale.edu/team/adam-meirowitz) and [Alan Gerber](https://politicalscience.yale.edu/people/alan-gerber). I graduated from Yale in 2024, where I majored in Mathematics and obtained a second degree in Economics. My senior thesis was advised by [Dirk Bergemann](https://economics.yale.edu/people/dirk-bergemann).
 
-In addition to my research interests in microeconomic theory and mechanism design, I have worked in the Research and Statistics Group at the Federal Reserve Bank of New York. I worked on Bayesian estimation of macroeconomic models and econometric theory in the [Applied Macroeconomics & Econometrics Center (AMEC)](https://www.newyorkfed.org/research/amec).
+I am broadly interested in the intersection of economic theory and political economy, where I currently study polarization in voting games with uncertainty, information design in collective decision problems, and political accountability in settings with repeated moral hazard, among other things. 
+
+In addition, I previosuly have worked in the Research and Statistics Group at the Federal Reserve Bank of New York. I worked on Bayesian estimation of macroeconomic models and econometric theory in the [Applied Macroeconomics & Econometrics Center (AMEC)](https://www.newyorkfed.org/research/amec).
 
 I can be reached at justice dot harasha at yale dot edu. 
