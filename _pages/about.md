@@ -13,4 +13,4 @@ I am broadly interested in the intersection of political economy and economic th
 
 In addition, I previosuly have worked in the Research and Statistics Group at the Federal Reserve Bank of New York. I worked on Bayesian estimation of macroeconomic models and econometric theory in the [Applied Macroeconomics & Econometrics Center (AMEC)](https://www.newyorkfed.org/research/amec).
 
-I can be reached at jh9346 at princeton dot edu. 
+I can be reached at justice dot harasha at princeton dot edu. 
