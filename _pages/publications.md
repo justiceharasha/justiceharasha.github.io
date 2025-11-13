@@ -12,8 +12,5 @@ _with Adam Meirowitz_
 
 ## Works in Progress
 
-Politically Constrained Persuasion
-
-Viral Information and Polarization
 
 
